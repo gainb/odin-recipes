@@ -1,0 +1,1 @@
+this project is to demonstrate my knowledge of html, including images, hyperlinks, paragraphs, etc.
